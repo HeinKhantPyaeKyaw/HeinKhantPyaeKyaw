@@ -1,4 +1,7 @@
 ### Hi there 👋
+### I'm just starting to explore the world of CS, currently at KMUTT.
+### Leaning more towards web dev atm but excited to work on anything so reach out if you're in the same shoes.
+
 
 <!--
 **HeinKhantPyaeKyaw/HeinKhantPyaeKyaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
